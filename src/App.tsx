@@ -316,7 +316,7 @@ function Hero() {
     <section className="hero" id="home" aria-labelledby="hero-title">
       <img
         className="hero-image"
-        src="/images/hero-roadside.jpg"
+        src="/images/hero-roadside.png"
         alt="Roadside technician working beside a stranded vehicle on a highway shoulder"
         fetchPriority="high"
       />
